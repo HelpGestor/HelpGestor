@@ -1,16 +1,21 @@
-### Hi there 👋
+#
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/HelpGestor/documentacao/blob/main/imagens/HelpGestor-removebg-preview.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/HelpGestor/documentacao/blob/main/imagens/HelpGestor-removebg-preview.png">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="hhttps://github.com/HelpGestor/documentacao/blob/main/imagens/HelpGestor-removebg-preview.png">
+</picture>
 
-<!--
-**HelpGestor/HelpGestor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Olá, nós somos a equipe HelpGestor!
+Neste perfil, você irá encontrar as atualizações do nosso trabalho e todas as informações necessárias.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details>
+
+<summary> Por aqui, você pode acessar nossos conteúdos: </summary>
+
+### Documentação
+- 
+- 
+
+</details>
+
