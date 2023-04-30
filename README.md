@@ -1,10 +1,9 @@
 #
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/HelpGestor/documentacao/blob/main/imagens/HelpGestor-removebg-preview.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/HelpGestor/documentacao/blob/main/imagens/HelpGestor-removebg-preview.png">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="hhttps://github.com/HelpGestor/documentacao/blob/main/imagens/HelpGestor-removebg-preview.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/HelpGestor/documentacao/blob/main/imagens/HelpGestorLogo.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/HelpGestor/documentacao/blob/main/imagens/HelpGestorLogo.png">
+  <img alt="Help Gestor Logo" src="https://github.com/HelpGestor/documentacao/blob/main/imagens/HelpGestorLogo.png">
 </picture>
-
 
 ## Olá, nós somos a equipe HelpGestor!
 Neste perfil, você irá encontrar as atualizações do nosso trabalho e todas as informações necessárias.
