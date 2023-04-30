@@ -9,7 +9,7 @@ Neste perfil, você irá encontrar as atualizações do nosso trabalho e todas a
 
 <details>
 
-<summary> Conteúdos: </summary>
+<summary> Conteúdos:  </summary>
 
 ### Documentação
 - [Casos de Uso](https://github.com/HelpGestor/documentacao/blob/main/casos-de-uso.png)
@@ -20,6 +20,7 @@ Neste perfil, você irá encontrar as atualizações do nosso trabalho e todas a
 <details>
 
 <summary> Desenvolvedores: </summary> 
+   
   
 - [@aTu44](https://github.com/aTu44)       // Arthur Henry Martins Brito
 - [@RaphMt117](https://github.com/RaphMt117)   // Rafael Marques e Torres
