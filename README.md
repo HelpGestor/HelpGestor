@@ -1,4 +1,3 @@
-#
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/HelpGestor/documentacao/blob/main/imagens/HelpGestorLogo.png">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/HelpGestor/documentacao/blob/main/imagens/HelpGestorLogo.png">
