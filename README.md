@@ -25,7 +25,8 @@ Neste perfil, você irá encontrar as atualizações do nosso trabalho e todas a
 - [@aTu44](https://github.com/aTu44)       // Arthur Henry Martins Brito
 - [@RaphMt117](https://github.com/RaphMt117)   // Rafael Marques e Torres
 - [@diasdavizin](https://github.com/diasdavizin) // Davi de Araújo Dias
+- [DaviNicoletto](https://github.com/DaviNicoletto) // Davi Nicoletto
+- [Jo4oPedro0](https://github.com/Jo4oPedro0) // João Pedro
 - 
--
   
 </details>
