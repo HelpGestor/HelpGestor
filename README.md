@@ -19,3 +19,9 @@ Neste perfil, você irá encontrar as atualizações do nosso trabalho e todas a
   
 </details>
 
+### Desenvolvedores: 
+- [@aTu44](https://github.com/aTu44)       // Arthur Henry Martins Brito
+- [@RaphMt117](https://github.com/RaphMt117)   // Rafael Marques e Torres
+- [@diasdavizin](https://github.com/diasdavizin) // Davi de Araújo Dias
+- 
+-
