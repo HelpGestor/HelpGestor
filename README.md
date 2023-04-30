@@ -9,7 +9,7 @@ Neste perfil, você irá encontrar as atualizações do nosso trabalho e todas a
 
 <details>
 
-<summary> Por aqui, você pode acessar nossos conteúdos: </summary>
+<summary> Conteúdos: </summary>
 
 ### Documentação
 - [Casos de Uso](https://github.com/HelpGestor/documentacao/blob/main/casos-de-uso.png)
@@ -17,9 +17,14 @@ Neste perfil, você irá encontrar as atualizações do nosso trabalho e todas a
   
 </details>
 
-### Desenvolvedores: 
+<details>
+
+<summary> Desenvolvedores: </summary> 
+  
 - [@aTu44](https://github.com/aTu44)       // Arthur Henry Martins Brito
 - [@RaphMt117](https://github.com/RaphMt117)   // Rafael Marques e Torres
 - [@diasdavizin](https://github.com/diasdavizin) // Davi de Araújo Dias
 - 
 -
+  
+</details>
