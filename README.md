@@ -26,9 +26,9 @@ Neste perfil, você irá encontrar as atualizações do nosso trabalho e todas a
 </details>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/HelpGestor/documentacao/blob/main/imagens/HelpGestorLogo.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/HelpGestor/documentacao/blob/main/imagens/HelpGestorLogo.png">
-  <img alt="Help Gestor Logo" src="https://github.com/HelpGestor/documentacao/blob/main/imagens/HelpGestorLogo.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/HelpGestor/documentacao/blob/main/midia/HelpGestorLogo.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/HelpGestor/documentacao/blob/main/midia/HelpGestorLogo.png">
+  <img alt="Help Gestor Logo" src="https://github.com/HelpGestor/documentacao/blob/main/midia/HelpGestorLogo.png">
 </picture>
 
 
