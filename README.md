@@ -31,3 +31,5 @@ Neste perfil, você irá encontrar as atualizações do nosso trabalho e todas a
   <img alt="Help Gestor Logo" src="https://github.com/HelpGestor/documentacao/blob/main/imagens/HelpGestorLogo.png">
 </picture>
 
+
+![](https://github.com/Your_Repository_Name/Your_GIF_Name.gif)
