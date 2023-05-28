@@ -9,7 +9,7 @@ Neste perfil, você irá encontrar as atualizações do nosso trabalho e todas a
 - [**Casos de Uso**](https://github.com/HelpGestor/documentacao/blob/main/casos-de-uso.png)
 - [**Requisitos**](https://github.com/HelpGestor/documentacao/blob/main/requisitos.md)
 - [**Modelo Conceitual**](https://github.com/HelpGestor/documentacao/tree/main/modelo-conceitual)
-- 
+- [**Modelo Físico**](https://github.com/HelpGestor/documentacao/tree/main/modelo-fisico)
 - 
   
 </details>
