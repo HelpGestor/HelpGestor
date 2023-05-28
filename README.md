@@ -8,7 +8,9 @@ Neste perfil, você irá encontrar as atualizações do nosso trabalho e todas a
   
 - [**Casos de Uso**](https://github.com/HelpGestor/documentacao/blob/main/casos-de-uso.png)
 - [**Requisitos**](https://github.com/HelpGestor/documentacao/blob/main/requisitos.md)
-- [Repositório](https://github.com/HelpGestor/documentacao/tree/main)
+- [**Modelo Conceitual**](modelo-conceitual)
+- 
+- 
   
 </details>
 
