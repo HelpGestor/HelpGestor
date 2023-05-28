@@ -1,3 +1,6 @@
+
+https://github.com/HelpGestor/HelpGestor/assets/128103721/8390e160-91b1-43fb-8718-67c328846bcc
+
 ## Olá, nós somos a equipe HelpGestor!
 Neste perfil, você irá encontrar as atualizações do nosso trabalho e todas as informações necessárias.
 
