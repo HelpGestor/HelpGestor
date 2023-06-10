@@ -1,3 +1,5 @@
+![Prototipagem](documentacao/midia/prototipagem.mp4)
+
 ## Olá, nós somos a equipe HelpGestor!
 Neste perfil, você irá encontrar as atualizações do nosso trabalho e todas as informações necessárias.
 
@@ -8,7 +10,7 @@ Neste perfil, você irá encontrar as atualizações do nosso trabalho e todas a
 - [**Requisitos**](https://github.com/HelpGestor/documentacao/blob/main/requisitos.md)
 - [**Modelo Conceitual**](https://github.com/HelpGestor/documentacao/tree/main/modelo-conceitual)
 - [**Modelo Físico**](https://github.com/HelpGestor/documentacao/tree/main/modelo-fisico)
-- [**Prototipagem**](midia/prototipagem.mp4)
+- [**Prototipagem**](documentacao/midia/prototipagem.mp4)
 
 ## Desenvolvedores:
 - [@aTu44](https://github.com/aTu44)       // Arthur Henry Martins Brito
