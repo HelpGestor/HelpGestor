@@ -18,7 +18,6 @@ Neste perfil, você irá encontrar as atualizações do nosso trabalho e todas a
 - Daniel Braga Alves do Couto
 - [@diasdavizin](https://github.com/diasdavizin) // Davi de Araújo Dias
 - [@DaviNicoletto](https://github.com/DaviNicoletto) // Davi Nicoletto Ferreira da Silva
-- Henrique Arcaro Silvestre Alves
 - [@Jo4oPedro0](https://github.com/Jo4oPedro0)  // João Pedro Carvalho de Oliveira
 - [@RaphMt117](https://github.com/RaphMt117)   // Rafael Marques e Torres
 - Pedro Antônio Meireles Lopes
