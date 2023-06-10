@@ -1,6 +1,5 @@
-![Prototipagem](documentacao/midia/prototipagem.mp4)
-
 ## Olá, nós somos a equipe HelpGestor!
+
 Neste perfil, você irá encontrar as atualizações do nosso trabalho e todas as informações necessárias.
 
 ## Conteúdos: 
@@ -8,8 +7,9 @@ Neste perfil, você irá encontrar as atualizações do nosso trabalho e todas a
 ### Documentação:  
 - [**Casos de Uso**](https://github.com/HelpGestor/documentacao/blob/main/casos-de-uso.png)
 - [**Requisitos**](https://github.com/HelpGestor/documentacao/blob/main/requisitos.md)
-- [**Modelo Conceitual**](https://github.com/HelpGestor/documentacao/tree/main/modelo-conceitual)
-- [**Modelo Físico**](https://github.com/HelpGestor/documentacao/tree/main/modelo-fisico)
+- Banco de Dados
+  - [**Modelo Conceitual**](https://github.com/HelpGestor/documentacao/tree/main/banco-de-dados/modelo-conceitual)
+  - [**Modelo Físico**](https://github.com/HelpGestor/documentacao/tree/main/banco-de-dados/modelo-fisico)
 - [**Prototipagem**](documentacao/midia/prototipagem.mp4)
 
 ## Desenvolvedores:
