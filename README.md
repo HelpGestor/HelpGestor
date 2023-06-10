@@ -1,8 +1,3 @@
-midia/prototipagem.mp4
-
-![Prototipagem](midia/prototipagem.mp4)
-
-
 ## Olá, nós somos a equipe HelpGestor!
 Neste perfil, você irá encontrar as atualizações do nosso trabalho e todas as informações necessárias.
 
