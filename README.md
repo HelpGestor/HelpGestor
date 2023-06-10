@@ -1,8 +1,4 @@
 
-https://github.com/HelpGestor/HelpGestor/assets/128103721/8390e160-91b1-43fb-8718-67c328846bcc
-
-https://github.com/HelpGestor/documentacao/blob/main/midia/prototipagem.mp4
-
 
 
 ## Olá, nós somos a equipe HelpGestor!
