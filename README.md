@@ -12,7 +12,7 @@ Neste perfil, você irá encontrar as atualizações do nosso trabalho e todas a
   - [**Casos de Uso**](https://github.com/HelpGestor/documentacao/tree/main/diagramas/caso-de-uso)
   - [**Diagrama de Atividade**](https://github.com/HelpGestor/documentacao/tree/main/diagramas/diagrama-de-atividade)
   - [**Diagrama de Classe**](https://github.com/HelpGestor/documentacao/tree/main/diagramas/diagrama-de-classe)
-  - [Diagrama de Sequência]()
+  - [Diagrama de Sequência](https://github.com/HelpGestor/documentacao/tree/main/diagramas/diagrama-de-sequencia)
   
 - Banco de Dados:
   - [**Modelo Conceitual**](https://github.com/HelpGestor/documentacao/tree/main/banco-de-dados/modelo-conceitual)
