@@ -2,15 +2,26 @@
 
 Neste perfil, você irá encontrar as atualizações do nosso trabalho e todas as informações necessárias.
 
-## Conteúdos: 
+## Conteúdos:
 
-### Documentação:  
-- [**Casos de Uso**](https://github.com/HelpGestor/documentacao/blob/main/casos-de-uso.png)
+### Documentação:
+
 - [**Requisitos**](https://github.com/HelpGestor/documentacao/blob/main/requisitos.md)
-- Banco de Dados
+
+- Diagramas:
+  - [**Casos de Uso**](https://github.com/HelpGestor/documentacao/tree/main/diagramas/caso-de-uso)
+  - [**Diagrama de Atividade**](https://github.com/HelpGestor/documentacao/tree/main/diagramas/diagrama-de-atividade)
+  - [**Diagrama de Classe**](https://github.com/HelpGestor/documentacao/tree/main/diagramas/diagrama-de-classe)
+  - [Diagrama de Sequência]()
+  
+- Banco de Dados:
   - [**Modelo Conceitual**](https://github.com/HelpGestor/documentacao/tree/main/banco-de-dados/modelo-conceitual)
   - [**Modelo Físico**](https://github.com/HelpGestor/documentacao/tree/main/banco-de-dados/modelo-fisico)
-- [**Prototipagem**](documentacao/midia/prototipagem.mp4)
+  - [**Script SQL**](https://github.com/HelpGestor/documentacao/blob/main/banco-de-dados/modelo-fisico/script-helpgestor.sql)
+  
+- Mídias:
+  - [**Logo**](https://github.com/HelpGestor/documentacao/blob/main/midia/HelpGestorLogo.png)
+  - [**Prototipagem**]([documentacao/midia/prototipagem.mp4](https://github.com/HelpGestor/documentacao/blob/main/midia/prototipagem.mp4))
 
 ## Desenvolvedores:
 - [@aTu44](https://github.com/aTu44)       // Arthur Henry Martins Brito
